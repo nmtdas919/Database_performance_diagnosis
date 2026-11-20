@@ -1,0 +1,10 @@
+# Recommended Python: 3.11 or 3.12 (3.10+ supported).
+# Runtime dependencies
+streamlit>=1.40,<2.0
+pandas>=2.2,<4.0
+langchain>=0.3,<2.0
+langchain-core>=0.3,<2.0
+langchain-ollama>=0.3.4,<2.0
+
+# Development / testing (not needed to run the app)
+pytest>=8.0,<10.0
